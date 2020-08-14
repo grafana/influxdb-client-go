@@ -16,7 +16,7 @@ import (
 	"sync"
 	"testing"
 
-	http2 "github.com/influxdata/influxdb-client-go/api/http"
+	http2 "github.com/grafana/influxdb-client-go/api/http"
 	"github.com/stretchr/testify/assert"
 )
 

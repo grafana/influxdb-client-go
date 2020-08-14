@@ -5,7 +5,7 @@
 package domain
 
 import (
-	"github.com/influxdata/influxdb-client-go/api/http"
+	"github.com/grafana/influxdb-client-go/api/http"
 )
 
 func DomainErrorToError(error *Error, statusCode int) *http.Error {

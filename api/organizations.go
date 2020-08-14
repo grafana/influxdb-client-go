@@ -7,7 +7,7 @@ package api
 import (
 	"context"
 	"fmt"
-	"github.com/influxdata/influxdb-client-go/domain"
+	"github.com/grafana/influxdb-client-go/domain"
 )
 
 // OrganizationsAPI provides methods for managing Organizations in a InfluxDB server.

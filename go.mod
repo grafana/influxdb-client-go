@@ -1,4 +1,4 @@
-module github.com/influxdata/influxdb-client-go
+module github.com/grafana/influxdb-client-go
 
 go 1.13
 

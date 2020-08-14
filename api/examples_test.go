@@ -3,10 +3,10 @@ package api_test
 import (
 	"context"
 	"fmt"
-	"github.com/influxdata/influxdb-client-go/api"
-	"github.com/influxdata/influxdb-client-go/api/write"
-	"github.com/influxdata/influxdb-client-go/domain"
-	influxdb2 "github.com/influxdata/influxdb-client-go/internal/examples"
+	"github.com/grafana/influxdb-client-go/api"
+	"github.com/grafana/influxdb-client-go/api/write"
+	"github.com/grafana/influxdb-client-go/domain"
+	influxdb2 "github.com/grafana/influxdb-client-go/internal/examples"
 	"math/rand"
 	"time"
 )

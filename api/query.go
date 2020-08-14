@@ -23,10 +23,10 @@ import (
 	"sync"
 	"time"
 
-	http2 "github.com/influxdata/influxdb-client-go/api/http"
-	"github.com/influxdata/influxdb-client-go/api/query"
-	"github.com/influxdata/influxdb-client-go/domain"
-	"github.com/influxdata/influxdb-client-go/internal/log"
+	http2 "github.com/grafana/influxdb-client-go/api/http"
+	"github.com/grafana/influxdb-client-go/api/query"
+	"github.com/grafana/influxdb-client-go/domain"
+	"github.com/grafana/influxdb-client-go/internal/log"
 )
 
 const (

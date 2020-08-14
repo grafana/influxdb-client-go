@@ -12,11 +12,11 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/influxdata/influxdb-client-go/api"
-	"github.com/influxdata/influxdb-client-go/api/http"
-	"github.com/influxdata/influxdb-client-go/domain"
-	ilog "github.com/influxdata/influxdb-client-go/internal/log"
-	"github.com/influxdata/influxdb-client-go/log"
+	"github.com/grafana/influxdb-client-go/api"
+	"github.com/grafana/influxdb-client-go/api/http"
+	"github.com/grafana/influxdb-client-go/domain"
+	ilog "github.com/grafana/influxdb-client-go/internal/log"
+	"github.com/grafana/influxdb-client-go/log"
 )
 
 // Client provides API to communicate with InfluxDBServer.

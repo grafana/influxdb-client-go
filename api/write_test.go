@@ -12,10 +12,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/influxdata/influxdb-client-go/api/http"
-	"github.com/influxdata/influxdb-client-go/api/write"
-	"github.com/influxdata/influxdb-client-go/internal/test"
-	"github.com/influxdata/influxdb-client-go/log"
+	"github.com/grafana/influxdb-client-go/api/http"
+	"github.com/grafana/influxdb-client-go/api/write"
+	"github.com/grafana/influxdb-client-go/internal/test"
+	"github.com/grafana/influxdb-client-go/log"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

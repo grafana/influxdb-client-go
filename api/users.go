@@ -7,7 +7,7 @@ package api
 import (
 	"context"
 	"fmt"
-	"github.com/influxdata/influxdb-client-go/domain"
+	"github.com/grafana/influxdb-client-go/domain"
 )
 
 // UsersAPI provides methods for managing users in a InfluxDB server

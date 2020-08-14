@@ -6,7 +6,7 @@ package influxdb2
 
 import (
 	"fmt"
-	"github.com/influxdata/influxdb-client-go/internal/http"
+	"github.com/grafana/influxdb-client-go/internal/http"
 	"runtime"
 )
 

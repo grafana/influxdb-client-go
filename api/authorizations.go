@@ -6,7 +6,7 @@ package api
 
 import (
 	"context"
-	"github.com/influxdata/influxdb-client-go/domain"
+	"github.com/grafana/influxdb-client-go/domain"
 )
 
 // AuthorizationsAPI provides methods for organizing Authorization in a InfluxDB server

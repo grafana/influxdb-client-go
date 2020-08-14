@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/influxdata/influxdb-client-go/api/write"
+	"github.com/grafana/influxdb-client-go/api/write"
 )
 
 func TestDefaultOptions(t *testing.T) {

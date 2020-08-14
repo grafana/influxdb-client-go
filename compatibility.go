@@ -5,9 +5,9 @@
 package influxdb2
 
 import (
-	"github.com/influxdata/influxdb-client-go/api"
-	"github.com/influxdata/influxdb-client-go/api/write"
-	"github.com/influxdata/influxdb-client-go/domain"
+	"github.com/grafana/influxdb-client-go/api"
+	"github.com/grafana/influxdb-client-go/api/write"
+	"github.com/grafana/influxdb-client-go/domain"
 	"time"
 )
 

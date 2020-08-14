@@ -6,7 +6,7 @@
 package log
 
 import (
-	ilog "github.com/influxdata/influxdb-client-go/log"
+	ilog "github.com/grafana/influxdb-client-go/log"
 )
 
 func Debugf(format string, v ...interface{}) {

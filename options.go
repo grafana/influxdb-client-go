@@ -9,8 +9,8 @@ import (
 	nethttp "net/http"
 	"time"
 
-	"github.com/influxdata/influxdb-client-go/api/http"
-	"github.com/influxdata/influxdb-client-go/api/write"
+	"github.com/grafana/influxdb-client-go/api/http"
+	"github.com/grafana/influxdb-client-go/api/write"
 )
 
 // Options holds configuration properties for communicating with InfluxDB server
